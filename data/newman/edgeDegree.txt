@@ -1,0 +1,8 @@
+edge degrees:
+id	degree	max	normal
+Average = �
+Average Normalized = �
+Average By Vertex = �
+Average Normalized By Vertex = �
+Average By Edge Density = �
+Average Normalized By Edge Density = �

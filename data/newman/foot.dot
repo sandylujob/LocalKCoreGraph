@@ -1,0 +1,1807 @@
+digraph "foot" {
+overlap = false;
+outputorder = edgesfirst;
+pack = false;
+defaultdist = 10;
+"AirForce" [
+label = "AirForce"
+style = "filled"
+color = "#0F75FF"
+]
+"Akron" [
+label = "Akron"
+style = "filled"
+color = "#0F75FF"
+]
+"Alabama" [
+label = "Alabama"
+style = "filled"
+color = "#0F75FF"
+]
+"AlabamaBirmingham" [
+label = "AlabamaBirmingham"
+style = "filled"
+color = "#0F75FF"
+]
+"Arizona" [
+label = "Arizona"
+style = "filled"
+color = "#0F75FF"
+]
+"ArizonaState" [
+label = "ArizonaState"
+style = "filled"
+color = "#0F75FF"
+]
+"Arkansas" [
+label = "Arkansas"
+style = "filled"
+color = "#0F75FF"
+]
+"ArkansasState" [
+label = "ArkansasState"
+style = "filled"
+color = "#0F75FF"
+]
+"Army" [
+label = "Army"
+style = "filled"
+color = "#0F75FF"
+]
+"Auburn" [
+label = "Auburn"
+style = "filled"
+color = "#0F75FF"
+]
+"BallState" [
+label = "BallState"
+style = "filled"
+color = "#0F75FF"
+]
+"Baylor" [
+label = "Baylor"
+style = "filled"
+color = "#0F75FF"
+]
+"BoiseState" [
+label = "BoiseState"
+style = "filled"
+color = "#0F75FF"
+]
+"BostonCollege" [
+label = "BostonCollege"
+style = "filled"
+color = "#0F75FF"
+]
+"BowlingGreenState" [
+label = "BowlingGreenState"
+style = "filled"
+color = "#0F75FF"
+]
+"BrighamYoung" [
+label = "BrighamYoung"
+style = "filled"
+color = "#0F75FF"
+]
+"Buffalo" [
+label = "Buffalo"
+style = "filled"
+color = "#0F75FF"
+]
+"California" [
+label = "California"
+style = "filled"
+color = "#0F75FF"
+]
+"CentralFlorida" [
+label = "CentralFlorida"
+style = "filled"
+color = "#0F75FF"
+]
+"CentralMichigan" [
+label = "CentralMichigan"
+style = "filled"
+color = "#0F75FF"
+]
+"Cincinnati" [
+label = "Cincinnati"
+style = "filled"
+color = "#0F75FF"
+]
+"Clemson" [
+label = "Clemson"
+style = "filled"
+color = "#0F75FF"
+]
+"Colorado" [
+label = "Colorado"
+style = "filled"
+color = "#0F75FF"
+]
+"ColoradoState" [
+label = "ColoradoState"
+style = "filled"
+color = "#0F75FF"
+]
+"Connecticut" [
+label = "Connecticut"
+style = "filled"
+color = "#0F75FF"
+]
+"Duke" [
+label = "Duke"
+style = "filled"
+color = "#0F75FF"
+]
+"EastCarolina" [
+label = "EastCarolina"
+style = "filled"
+color = "#0F75FF"
+]
+"EasternMichigan" [
+label = "EasternMichigan"
+style = "filled"
+color = "#0F75FF"
+]
+"Florida" [
+label = "Florida"
+style = "filled"
+color = "#0F75FF"
+]
+"FloridaState" [
+label = "FloridaState"
+style = "filled"
+color = "#0F75FF"
+]
+"FresnoState" [
+label = "FresnoState"
+style = "filled"
+color = "#0F75FF"
+]
+"Georgia" [
+label = "Georgia"
+style = "filled"
+color = "#0F75FF"
+]
+"GeorgiaTech" [
+label = "GeorgiaTech"
+style = "filled"
+color = "#0F75FF"
+]
+"Hawaii" [
+label = "Hawaii"
+style = "filled"
+color = "#0F75FF"
+]
+"Houston" [
+label = "Houston"
+style = "filled"
+color = "#0F75FF"
+]
+"Idaho" [
+label = "Idaho"
+style = "filled"
+color = "#0F75FF"
+]
+"Illinois" [
+label = "Illinois"
+style = "filled"
+color = "#0F75FF"
+]
+"Indiana" [
+label = "Indiana"
+style = "filled"
+color = "#0F75FF"
+]
+"Iowa" [
+label = "Iowa"
+style = "filled"
+color = "#0F75FF"
+]
+"IowaState" [
+label = "IowaState"
+style = "filled"
+color = "#0F75FF"
+]
+"Kansas" [
+label = "Kansas"
+style = "filled"
+color = "#0F75FF"
+]
+"KansasState" [
+label = "KansasState"
+style = "filled"
+color = "#0F75FF"
+]
+"Kent" [
+label = "Kent"
+style = "filled"
+color = "#0F75FF"
+]
+"Kentucky" [
+label = "Kentucky"
+style = "filled"
+color = "#0F75FF"
+]
+"LouisianaLafayette" [
+label = "LouisianaLafayette"
+style = "filled"
+color = "#0F75FF"
+]
+"LouisianaMonroe" [
+label = "LouisianaMonroe"
+style = "filled"
+color = "#0F75FF"
+]
+"LouisianaState" [
+label = "LouisianaState"
+style = "filled"
+color = "#0F75FF"
+]
+"LouisianaTech" [
+label = "LouisianaTech"
+style = "filled"
+color = "#0F75FF"
+]
+"Louisville" [
+label = "Louisville"
+style = "filled"
+color = "#0F75FF"
+]
+"Marshall" [
+label = "Marshall"
+style = "filled"
+color = "#0F75FF"
+]
+"Maryland" [
+label = "Maryland"
+style = "filled"
+color = "#0F75FF"
+]
+"Memphis" [
+label = "Memphis"
+style = "filled"
+color = "#0F75FF"
+]
+"MiamiFlorida" [
+label = "MiamiFlorida"
+style = "filled"
+color = "#0F75FF"
+]
+"MiamiOhio" [
+label = "MiamiOhio"
+style = "filled"
+color = "#0F75FF"
+]
+"Michigan" [
+label = "Michigan"
+style = "filled"
+color = "#0F75FF"
+]
+"MichiganState" [
+label = "MichiganState"
+style = "filled"
+color = "#0F75FF"
+]
+"MiddleTennesseeState" [
+label = "MiddleTennesseeState"
+style = "filled"
+color = "#0F75FF"
+]
+"Minnesota" [
+label = "Minnesota"
+style = "filled"
+color = "#0F75FF"
+]
+"Mississippi" [
+label = "Mississippi"
+style = "filled"
+color = "#0F75FF"
+]
+"MississippiState" [
+label = "MississippiState"
+style = "filled"
+color = "#0F75FF"
+]
+"Missouri" [
+label = "Missouri"
+style = "filled"
+color = "#0F75FF"
+]
+"Navy" [
+label = "Navy"
+style = "filled"
+color = "#0F75FF"
+]
+"Nebraska" [
+label = "Nebraska"
+style = "filled"
+color = "#0F75FF"
+]
+"Nevada" [
+label = "Nevada"
+style = "filled"
+color = "#0F75FF"
+]
+"NevadaLasVegas" [
+label = "NevadaLasVegas"
+style = "filled"
+color = "#0F75FF"
+]
+"NewMexico" [
+label = "NewMexico"
+style = "filled"
+color = "#0F75FF"
+]
+"NewMexicoState" [
+label = "NewMexicoState"
+style = "filled"
+color = "#0F75FF"
+]
+"NorthCarolina" [
+label = "NorthCarolina"
+style = "filled"
+color = "#0F75FF"
+]
+"NorthCarolinaState" [
+label = "NorthCarolinaState"
+style = "filled"
+color = "#0F75FF"
+]
+"NorthTexas" [
+label = "NorthTexas"
+style = "filled"
+color = "#0F75FF"
+]
+"NorthernIllinois" [
+label = "NorthernIllinois"
+style = "filled"
+color = "#0F75FF"
+]
+"Northwestern" [
+label = "Northwestern"
+style = "filled"
+color = "#0F75FF"
+]
+"NotreDame" [
+label = "NotreDame"
+style = "filled"
+color = "#0F75FF"
+]
+"Ohio" [
+label = "Ohio"
+style = "filled"
+color = "#0F75FF"
+]
+"OhioState" [
+label = "OhioState"
+style = "filled"
+color = "#0F75FF"
+]
+"Oklahoma" [
+label = "Oklahoma"
+style = "filled"
+color = "#0F75FF"
+]
+"OklahomaState" [
+label = "OklahomaState"
+style = "filled"
+color = "#0F75FF"
+]
+"Oregon" [
+label = "Oregon"
+style = "filled"
+color = "#0F75FF"
+]
+"OregonState" [
+label = "OregonState"
+style = "filled"
+color = "#0F75FF"
+]
+"PennState" [
+label = "PennState"
+style = "filled"
+color = "#0F75FF"
+]
+"Pittsburgh" [
+label = "Pittsburgh"
+style = "filled"
+color = "#0F75FF"
+]
+"Purdue" [
+label = "Purdue"
+style = "filled"
+color = "#0F75FF"
+]
+"Rice" [
+label = "Rice"
+style = "filled"
+color = "#0F75FF"
+]
+"Rutgers" [
+label = "Rutgers"
+style = "filled"
+color = "#0F75FF"
+]
+"SanDiegoState" [
+label = "SanDiegoState"
+style = "filled"
+color = "#0F75FF"
+]
+"SanJoseState" [
+label = "SanJoseState"
+style = "filled"
+color = "#0F75FF"
+]
+"SouthCarolina" [
+label = "SouthCarolina"
+style = "filled"
+color = "#0F75FF"
+]
+"SouthernCalifornia" [
+label = "SouthernCalifornia"
+style = "filled"
+color = "#0F75FF"
+]
+"SouthernMethodist" [
+label = "SouthernMethodist"
+style = "filled"
+color = "#0F75FF"
+]
+"SouthernMississippi" [
+label = "SouthernMississippi"
+style = "filled"
+color = "#0F75FF"
+]
+"Stanford" [
+label = "Stanford"
+style = "filled"
+color = "#0F75FF"
+]
+"Syracuse" [
+label = "Syracuse"
+style = "filled"
+color = "#0F75FF"
+]
+"Temple" [
+label = "Temple"
+style = "filled"
+color = "#0F75FF"
+]
+"Tennessee" [
+label = "Tennessee"
+style = "filled"
+color = "#0F75FF"
+]
+"Texas" [
+label = "Texas"
+style = "filled"
+color = "#0F75FF"
+]
+"TexasA&M" [
+label = "TexasA&M"
+style = "filled"
+color = "#0F75FF"
+]
+"TexasChristian" [
+label = "TexasChristian"
+style = "filled"
+color = "#0F75FF"
+]
+"TexasElPaso" [
+label = "TexasElPaso"
+style = "filled"
+color = "#0F75FF"
+]
+"TexasTech" [
+label = "TexasTech"
+style = "filled"
+color = "#0F75FF"
+]
+"Toledo" [
+label = "Toledo"
+style = "filled"
+color = "#0F75FF"
+]
+"Tulane" [
+label = "Tulane"
+style = "filled"
+color = "#0F75FF"
+]
+"Tulsa" [
+label = "Tulsa"
+style = "filled"
+color = "#0F75FF"
+]
+"UCLA" [
+label = "UCLA"
+style = "filled"
+color = "#0F75FF"
+]
+"Utah" [
+label = "Utah"
+style = "filled"
+color = "#0F75FF"
+]
+"UtahState" [
+label = "UtahState"
+style = "filled"
+color = "#0F75FF"
+]
+"Vanderbilt" [
+label = "Vanderbilt"
+style = "filled"
+color = "#0F75FF"
+]
+"Virginia" [
+label = "Virginia"
+style = "filled"
+color = "#0F75FF"
+]
+"VirginiaTech" [
+label = "VirginiaTech"
+style = "filled"
+color = "#0F75FF"
+]
+"WakeForest" [
+label = "WakeForest"
+style = "filled"
+color = "#0F75FF"
+]
+"Washington" [
+label = "Washington"
+style = "filled"
+color = "#0F75FF"
+]
+"WashingtonState" [
+label = "WashingtonState"
+style = "filled"
+color = "#0F75FF"
+]
+"WestVirginia" [
+label = "WestVirginia"
+style = "filled"
+color = "#0F75FF"
+]
+"WesternMichigan" [
+label = "WesternMichigan"
+style = "filled"
+color = "#0F75FF"
+]
+"Wisconsin" [
+label = "Wisconsin"
+style = "filled"
+color = "#0F75FF"
+]
+"Wyoming" [
+label = "Wyoming"
+style = "filled"
+color = "#0F75FF"
+]
+	"NevadaLasVegas" -> "AirForce"	[weight = .01
+	];
+	"BowlingGreenState" -> "Akron"	[weight = .01
+	];
+	"Buffalo" -> "Akron"	[weight = .01
+	];
+	"CentralFlorida" -> "Akron"	[weight = .01
+	];
+	"CentralMichigan" -> "Akron"	[weight = .01
+	];
+	"Connecticut" -> "Akron"	[weight = .01
+	];
+	"Kent" -> "Akron"	[weight = .01
+	];
+	"Marshall" -> "Akron"	[weight = .01
+	];
+	"MiamiOhio" -> "Akron"	[weight = .01
+	];
+	"Ohio" -> "Akron"	[weight = .01
+	];
+	"VirginiaTech" -> "Akron"	[weight = .01
+	];
+	"Arkansas" -> "Alabama"	[weight = .01
+	];
+	"CentralFlorida" -> "Alabama"	[weight = .01
+	];
+	"LouisianaState" -> "Alabama"	[weight = .01
+	];
+	"Mississippi" -> "Alabama"	[weight = .01
+	];
+	"MississippiState" -> "Alabama"	[weight = .01
+	];
+	"SouthCarolina" -> "Alabama"	[weight = .01
+	];
+	"SouthernMississippi" -> "Alabama"	[weight = .01
+	];
+	"Tennessee" -> "Alabama"	[weight = .01
+	];
+	"UCLA" -> "Alabama"	[weight = .01
+	];
+	"Vanderbilt" -> "Alabama"	[weight = .01
+	];
+	"OhioState" -> "Arizona"	[weight = .01
+	];
+	"Oregon" -> "Arizona"	[weight = .01
+	];
+	"OregonState" -> "Arizona"	[weight = .01
+	];
+	"Stanford" -> "Arizona"	[weight = .01
+	];
+	"Utah" -> "Arizona"	[weight = .01
+	];
+	"Washington" -> "Arizona"	[weight = .01
+	];
+	"WashingtonState" -> "Arizona"	[weight = .01
+	];
+	"Arizona" -> "ArizonaState"	[weight = .01
+	];
+	"California" -> "ArizonaState"	[weight = .01
+	];
+	"ColoradoState" -> "ArizonaState"	[weight = .01
+	];
+	"Oregon" -> "ArizonaState"	[weight = .01
+	];
+	"SanDiegoState" -> "ArizonaState"	[weight = .01
+	];
+	"Stanford" -> "ArizonaState"	[weight = .01
+	];
+	"UCLA" -> "ArizonaState"	[weight = .01
+	];
+	"UtahState" -> "ArizonaState"	[weight = .01
+	];
+	"Washington" -> "ArizonaState"	[weight = .01
+	];
+	"WashingtonState" -> "ArizonaState"	[weight = .01
+	];
+	"BoiseState" -> "ArkansasState"	[weight = .01
+	];
+	"Idaho" -> "ArkansasState"	[weight = .01
+	];
+	"Memphis" -> "ArkansasState"	[weight = .01
+	];
+	"Mississippi" -> "ArkansasState"	[weight = .01
+	];
+	"NewMexicoState" -> "ArkansasState"	[weight = .01
+	];
+	"NorthCarolinaState" -> "ArkansasState"	[weight = .01
+	];
+	"Oklahoma" -> "ArkansasState"	[weight = .01
+	];
+	"TexasChristian" -> "ArkansasState"	[weight = .01
+	];
+	"UtahState" -> "ArkansasState"	[weight = .01
+	];
+	"AirForce" -> "Army"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "Army"	[weight = .01
+	];
+	"Cincinnati" -> "Army"	[weight = .01
+	];
+	"Alabama" -> "Auburn"	[weight = .01
+	];
+	"Arkansas" -> "Auburn"	[weight = .01
+	];
+	"Florida" -> "Auburn"	[weight = .01
+	];
+	"Georgia" -> "Auburn"	[weight = .01
+	];
+	"LouisianaState" -> "Auburn"	[weight = .01
+	];
+	"LouisianaTech" -> "Auburn"	[weight = .01
+	];
+	"Mississippi" -> "Auburn"	[weight = .01
+	];
+	"MississippiState" -> "Auburn"	[weight = .01
+	];
+	"Vanderbilt" -> "Auburn"	[weight = .01
+	];
+	"Buffalo" -> "BallState"	[weight = .01
+	];
+	"CentralMichigan" -> "BallState"	[weight = .01
+	];
+	"Connecticut" -> "BallState"	[weight = .01
+	];
+	"EasternMichigan" -> "BallState"	[weight = .01
+	];
+	"Florida" -> "BallState"	[weight = .01
+	];
+	"MiamiOhio" -> "BallState"	[weight = .01
+	];
+	"Toledo" -> "BallState"	[weight = .01
+	];
+	"IowaState" -> "Baylor"	[weight = .01
+	];
+	"Minnesota" -> "Baylor"	[weight = .01
+	];
+	"Missouri" -> "Baylor"	[weight = .01
+	];
+	"Nebraska" -> "Baylor"	[weight = .01
+	];
+	"NorthTexas" -> "Baylor"	[weight = .01
+	];
+	"Oklahoma" -> "Baylor"	[weight = .01
+	];
+	"OklahomaState" -> "Baylor"	[weight = .01
+	];
+	"Texas" -> "Baylor"	[weight = .01
+	];
+	"TexasA&M" -> "Baylor"	[weight = .01
+	];
+	"Arkansas" -> "BoiseState"	[weight = .01
+	];
+	"CentralMichigan" -> "BoiseState"	[weight = .01
+	];
+	"Idaho" -> "BoiseState"	[weight = .01
+	];
+	"NewMexicoState" -> "BoiseState"	[weight = .01
+	];
+	"UtahState" -> "BoiseState"	[weight = .01
+	];
+	"WashingtonState" -> "BoiseState"	[weight = .01
+	];
+	"Army" -> "BostonCollege"	[weight = .01
+	];
+	"Connecticut" -> "BostonCollege"	[weight = .01
+	];
+	"MiamiFlorida" -> "BostonCollege"	[weight = .01
+	];
+	"Navy" -> "BostonCollege"	[weight = .01
+	];
+	"NotreDame" -> "BostonCollege"	[weight = .01
+	];
+	"Pittsburgh" -> "BostonCollege"	[weight = .01
+	];
+	"Rutgers" -> "BostonCollege"	[weight = .01
+	];
+	"Syracuse" -> "BostonCollege"	[weight = .01
+	];
+	"Temple" -> "BostonCollege"	[weight = .01
+	];
+	"WestVirginia" -> "BostonCollege"	[weight = .01
+	];
+	"Buffalo" -> "BowlingGreenState"	[weight = .01
+	];
+	"EasternMichigan" -> "BowlingGreenState"	[weight = .01
+	];
+	"Kent" -> "BowlingGreenState"	[weight = .01
+	];
+	"Marshall" -> "BowlingGreenState"	[weight = .01
+	];
+	"MiamiOhio" -> "BowlingGreenState"	[weight = .01
+	];
+	"Michigan" -> "BowlingGreenState"	[weight = .01
+	];
+	"Ohio" -> "BowlingGreenState"	[weight = .01
+	];
+	"Pittsburgh" -> "BowlingGreenState"	[weight = .01
+	];
+	"Temple" -> "BowlingGreenState"	[weight = .01
+	];
+	"Toledo" -> "BowlingGreenState"	[weight = .01
+	];
+	"AirForce" -> "BrighamYoung"	[weight = .01
+	];
+	"ColoradoState" -> "BrighamYoung"	[weight = .01
+	];
+	"FloridaState" -> "BrighamYoung"	[weight = .01
+	];
+	"MississippiState" -> "BrighamYoung"	[weight = .01
+	];
+	"NevadaLasVegas" -> "BrighamYoung"	[weight = .01
+	];
+	"NewMexico" -> "BrighamYoung"	[weight = .01
+	];
+	"SanDiegoState" -> "BrighamYoung"	[weight = .01
+	];
+	"Syracuse" -> "BrighamYoung"	[weight = .01
+	];
+	"Utah" -> "BrighamYoung"	[weight = .01
+	];
+	"UtahState" -> "BrighamYoung"	[weight = .01
+	];
+	"Virginia" -> "BrighamYoung"	[weight = .01
+	];
+	"Wyoming" -> "BrighamYoung"	[weight = .01
+	];
+	"Connecticut" -> "Buffalo"	[weight = .01
+	];
+	"Kent" -> "Buffalo"	[weight = .01
+	];
+	"Marshall" -> "Buffalo"	[weight = .01
+	];
+	"MiamiOhio" -> "Buffalo"	[weight = .01
+	];
+	"Ohio" -> "Buffalo"	[weight = .01
+	];
+	"Rutgers" -> "Buffalo"	[weight = .01
+	];
+	"Syracuse" -> "Buffalo"	[weight = .01
+	];
+	"EasternMichigan" -> "CentralFlorida"	[weight = .01
+	];
+	"GeorgiaTech" -> "CentralFlorida"	[weight = .01
+	];
+	"LouisianaMonroe" -> "CentralFlorida"	[weight = .01
+	];
+	"LouisianaTech" -> "CentralFlorida"	[weight = .01
+	];
+	"EasternMichigan" -> "CentralMichigan"	[weight = .01
+	];
+	"Kent" -> "CentralMichigan"	[weight = .01
+	];
+	"Ohio" -> "CentralMichigan"	[weight = .01
+	];
+	"Purdue" -> "CentralMichigan"	[weight = .01
+	];
+	"Toledo" -> "CentralMichigan"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "Cincinnati"	[weight = .01
+	];
+	"Indiana" -> "Cincinnati"	[weight = .01
+	];
+	"Maryland" -> "Clemson"	[weight = .01
+	];
+	"WakeForest" -> "Clemson"	[weight = .01
+	];
+	"ColoradoState" -> "Colorado"	[weight = .01
+	];
+	"IowaState" -> "Colorado"	[weight = .01
+	];
+	"Kansas" -> "Colorado"	[weight = .01
+	];
+	"Missouri" -> "Colorado"	[weight = .01
+	];
+	"Nebraska" -> "Colorado"	[weight = .01
+	];
+	"OklahomaState" -> "Colorado"	[weight = .01
+	];
+	"Texas" -> "Colorado"	[weight = .01
+	];
+	"TexasA&M" -> "Colorado"	[weight = .01
+	];
+	"Washington" -> "Colorado"	[weight = .01
+	];
+	"AirForce" -> "ColoradoState"	[weight = .01
+	];
+	"Nevada" -> "ColoradoState"	[weight = .01
+	];
+	"NevadaLasVegas" -> "ColoradoState"	[weight = .01
+	];
+	"EasternMichigan" -> "Connecticut"	[weight = .01
+	];
+	"Louisville" -> "Connecticut"	[weight = .01
+	];
+	"MiddleTennesseeState" -> "Connecticut"	[weight = .01
+	];
+	"Clemson" -> "Duke"	[weight = .01
+	];
+	"Maryland" -> "Duke"	[weight = .01
+	];
+	"NorthCarolina" -> "Duke"	[weight = .01
+	];
+	"Vanderbilt" -> "Duke"	[weight = .01
+	];
+	"WakeForest" -> "Duke"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "EastCarolina"	[weight = .01
+	];
+	"Army" -> "EastCarolina"	[weight = .01
+	];
+	"Duke" -> "EastCarolina"	[weight = .01
+	];
+	"Houston" -> "EastCarolina"	[weight = .01
+	];
+	"Louisville" -> "EastCarolina"	[weight = .01
+	];
+	"Memphis" -> "EastCarolina"	[weight = .01
+	];
+	"SouthernMississippi" -> "EastCarolina"	[weight = .01
+	];
+	"Tulane" -> "EastCarolina"	[weight = .01
+	];
+	"MiamiOhio" -> "EasternMichigan"	[weight = .01
+	];
+	"SouthCarolina" -> "EasternMichigan"	[weight = .01
+	];
+	"Temple" -> "EasternMichigan"	[weight = .01
+	];
+	"Toledo" -> "EasternMichigan"	[weight = .01
+	];
+	"Georgia" -> "Florida"	[weight = .01
+	];
+	"Kentucky" -> "Florida"	[weight = .01
+	];
+	"LouisianaState" -> "Florida"	[weight = .01
+	];
+	"MiddleTennesseeState" -> "Florida"	[weight = .01
+	];
+	"MississippiState" -> "Florida"	[weight = .01
+	];
+	"SouthCarolina" -> "Florida"	[weight = .01
+	];
+	"Tennessee" -> "Florida"	[weight = .01
+	];
+	"Vanderbilt" -> "Florida"	[weight = .01
+	];
+	"Clemson" -> "FloridaState"	[weight = .01
+	];
+	"Duke" -> "FloridaState"	[weight = .01
+	];
+	"Florida" -> "FloridaState"	[weight = .01
+	];
+	"GeorgiaTech" -> "FloridaState"	[weight = .01
+	];
+	"Louisville" -> "FloridaState"	[weight = .01
+	];
+	"Maryland" -> "FloridaState"	[weight = .01
+	];
+	"MiamiFlorida" -> "FloridaState"	[weight = .01
+	];
+	"NorthCarolina" -> "FloridaState"	[weight = .01
+	];
+	"NorthCarolinaState" -> "FloridaState"	[weight = .01
+	];
+	"Virginia" -> "FloridaState"	[weight = .01
+	];
+	"WakeForest" -> "FloridaState"	[weight = .01
+	];
+	"California" -> "FresnoState"	[weight = .01
+	];
+	"Hawaii" -> "FresnoState"	[weight = .01
+	];
+	"Nevada" -> "FresnoState"	[weight = .01
+	];
+	"OhioState" -> "FresnoState"	[weight = .01
+	];
+	"Rice" -> "FresnoState"	[weight = .01
+	];
+	"SanJoseState" -> "FresnoState"	[weight = .01
+	];
+	"SouthernMethodist" -> "FresnoState"	[weight = .01
+	];
+	"TexasChristian" -> "FresnoState"	[weight = .01
+	];
+	"TexasElPaso" -> "FresnoState"	[weight = .01
+	];
+	"Tulsa" -> "FresnoState"	[weight = .01
+	];
+	"Arkansas" -> "Georgia"	[weight = .01
+	];
+	"Clemson" -> "GeorgiaTech"	[weight = .01
+	];
+	"Duke" -> "GeorgiaTech"	[weight = .01
+	];
+	"Georgia" -> "GeorgiaTech"	[weight = .01
+	];
+	"Maryland" -> "GeorgiaTech"	[weight = .01
+	];
+	"Navy" -> "GeorgiaTech"	[weight = .01
+	];
+	"NorthCarolina" -> "GeorgiaTech"	[weight = .01
+	];
+	"WakeForest" -> "GeorgiaTech"	[weight = .01
+	];
+	"Army" -> "Houston"	[weight = .01
+	];
+	"Cincinnati" -> "Houston"	[weight = .01
+	];
+	"LouisianaState" -> "Houston"	[weight = .01
+	];
+	"Louisville" -> "Houston"	[weight = .01
+	];
+	"Memphis" -> "Houston"	[weight = .01
+	];
+	"Rice" -> "Houston"	[weight = .01
+	];
+	"SouthernMethodist" -> "Houston"	[weight = .01
+	];
+	"SouthernMississippi" -> "Houston"	[weight = .01
+	];
+	"Texas" -> "Houston"	[weight = .01
+	];
+	"Tulane" -> "Houston"	[weight = .01
+	];
+	"NewMexicoState" -> "Idaho"	[weight = .01
+	];
+	"Oregon" -> "Idaho"	[weight = .01
+	];
+	"UtahState" -> "Idaho"	[weight = .01
+	];
+	"Washington" -> "Idaho"	[weight = .01
+	];
+	"WashingtonState" -> "Idaho"	[weight = .01
+	];
+	"California" -> "Illinois"	[weight = .01
+	];
+	"Indiana" -> "Illinois"	[weight = .01
+	];
+	"MichiganState" -> "Illinois"	[weight = .01
+	];
+	"Illinois" -> "Iowa"	[weight = .01
+	];
+	"Indiana" -> "Iowa"	[weight = .01
+	];
+	"IowaState" -> "Iowa"	[weight = .01
+	];
+	"KansasState" -> "Iowa"	[weight = .01
+	];
+	"MichiganState" -> "Iowa"	[weight = .01
+	];
+	"Minnesota" -> "Iowa"	[weight = .01
+	];
+	"Nebraska" -> "Iowa"	[weight = .01
+	];
+	"Northwestern" -> "Iowa"	[weight = .01
+	];
+	"OhioState" -> "Iowa"	[weight = .01
+	];
+	"PennState" -> "Iowa"	[weight = .01
+	];
+	"WesternMichigan" -> "Iowa"	[weight = .01
+	];
+	"Wisconsin" -> "Iowa"	[weight = .01
+	];
+	"Missouri" -> "IowaState"	[weight = .01
+	];
+	"Nebraska" -> "IowaState"	[weight = .01
+	];
+	"NevadaLasVegas" -> "IowaState"	[weight = .01
+	];
+	"OklahomaState" -> "IowaState"	[weight = .01
+	];
+	"TexasA&M" -> "IowaState"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "Kansas"	[weight = .01
+	];
+	"IowaState" -> "Kansas"	[weight = .01
+	];
+	"Missouri" -> "Kansas"	[weight = .01
+	];
+	"Nebraska" -> "Kansas"	[weight = .01
+	];
+	"Oklahoma" -> "Kansas"	[weight = .01
+	];
+	"SouthernMethodist" -> "Kansas"	[weight = .01
+	];
+	"Texas" -> "Kansas"	[weight = .01
+	];
+	"BallState" -> "KansasState"	[weight = .01
+	];
+	"Colorado" -> "KansasState"	[weight = .01
+	];
+	"IowaState" -> "KansasState"	[weight = .01
+	];
+	"Kansas" -> "KansasState"	[weight = .01
+	];
+	"LouisianaTech" -> "KansasState"	[weight = .01
+	];
+	"Missouri" -> "KansasState"	[weight = .01
+	];
+	"Nebraska" -> "KansasState"	[weight = .01
+	];
+	"NorthTexas" -> "KansasState"	[weight = .01
+	];
+	"Oklahoma" -> "KansasState"	[weight = .01
+	];
+	"TexasA&M" -> "KansasState"	[weight = .01
+	];
+	"TexasTech" -> "KansasState"	[weight = .01
+	];
+	"Marshall" -> "Kent"	[weight = .01
+	];
+	"MiamiOhio" -> "Kent"	[weight = .01
+	];
+	"Ohio" -> "Kent"	[weight = .01
+	];
+	"Pittsburgh" -> "Kent"	[weight = .01
+	];
+	"Georgia" -> "Kentucky"	[weight = .01
+	];
+	"Indiana" -> "Kentucky"	[weight = .01
+	];
+	"LouisianaState" -> "Kentucky"	[weight = .01
+	];
+	"Louisville" -> "Kentucky"	[weight = .01
+	];
+	"Mississippi" -> "Kentucky"	[weight = .01
+	];
+	"MississippiState" -> "Kentucky"	[weight = .01
+	];
+	"SouthCarolina" -> "Kentucky"	[weight = .01
+	];
+	"Tennessee" -> "Kentucky"	[weight = .01
+	];
+	"Vanderbilt" -> "Kentucky"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "LouisianaLafayette"	[weight = .01
+	];
+	"Texas" -> "LouisianaLafayette"	[weight = .01
+	];
+	"Arkansas" -> "LouisianaMonroe"	[weight = .01
+	];
+	"LouisianaLafayette" -> "LouisianaMonroe"	[weight = .01
+	];
+	"Memphis" -> "LouisianaMonroe"	[weight = .01
+	];
+	"MiddleTennesseeState" -> "LouisianaMonroe"	[weight = .01
+	];
+	"Minnesota" -> "LouisianaMonroe"	[weight = .01
+	];
+	"Tennessee" -> "LouisianaMonroe"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "LouisianaState"	[weight = .01
+	];
+	"Arkansas" -> "LouisianaState"	[weight = .01
+	];
+	"Hawaii" -> "LouisianaTech"	[weight = .01
+	];
+	"LouisianaLafayette" -> "LouisianaTech"	[weight = .01
+	];
+	"LouisianaMonroe" -> "LouisianaTech"	[weight = .01
+	];
+	"MiamiFlorida" -> "LouisianaTech"	[weight = .01
+	];
+	"MiddleTennesseeState" -> "LouisianaTech"	[weight = .01
+	];
+	"Tulsa" -> "LouisianaTech"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "Louisville"	[weight = .01
+	];
+	"Army" -> "Louisville"	[weight = .01
+	];
+	"Cincinnati" -> "Louisville"	[weight = .01
+	];
+	"SouthernMississippi" -> "Louisville"	[weight = .01
+	];
+	"Tulane" -> "Louisville"	[weight = .01
+	];
+	"MichiganState" -> "Marshall"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "Memphis"	[weight = .01
+	];
+	"Army" -> "Memphis"	[weight = .01
+	];
+	"Cincinnati" -> "Memphis"	[weight = .01
+	];
+	"SouthernMississippi" -> "Memphis"	[weight = .01
+	];
+	"Tennessee" -> "Memphis"	[weight = .01
+	];
+	"Tulane" -> "Memphis"	[weight = .01
+	];
+	"Cincinnati" -> "MiamiOhio"	[weight = .01
+	];
+	"Marshall" -> "MiamiOhio"	[weight = .01
+	];
+	"Ohio" -> "MiamiOhio"	[weight = .01
+	];
+	"Vanderbilt" -> "MiamiOhio"	[weight = .01
+	];
+	"Illinois" -> "Michigan"	[weight = .01
+	];
+	"Indiana" -> "Michigan"	[weight = .01
+	];
+	"MichiganState" -> "Michigan"	[weight = .01
+	];
+	"OhioState" -> "Michigan"	[weight = .01
+	];
+	"Purdue" -> "Michigan"	[weight = .01
+	];
+	"Rice" -> "Michigan"	[weight = .01
+	];
+	"Missouri" -> "MichiganState"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "MiddleTennesseeState"	[weight = .01
+	];
+	"Illinois" -> "MiddleTennesseeState"	[weight = .01
+	];
+	"LouisianaLafayette" -> "MiddleTennesseeState"	[weight = .01
+	];
+	"Maryland" -> "MiddleTennesseeState"	[weight = .01
+	];
+	"MississippiState" -> "MiddleTennesseeState"	[weight = .01
+	];
+	"Illinois" -> "Minnesota"	[weight = .01
+	];
+	"Indiana" -> "Minnesota"	[weight = .01
+	];
+	"Ohio" -> "Minnesota"	[weight = .01
+	];
+	"Arkansas" -> "Mississippi"	[weight = .01
+	];
+	"Georgia" -> "Mississippi"	[weight = .01
+	];
+	"LouisianaState" -> "Mississippi"	[weight = .01
+	];
+	"NevadaLasVegas" -> "Mississippi"	[weight = .01
+	];
+	"Arkansas" -> "MississippiState"	[weight = .01
+	];
+	"LouisianaState" -> "MississippiState"	[weight = .01
+	];
+	"Memphis" -> "MississippiState"	[weight = .01
+	];
+	"Mississippi" -> "MississippiState"	[weight = .01
+	];
+	"SouthCarolina" -> "MississippiState"	[weight = .01
+	];
+	"Clemson" -> "Missouri"	[weight = .01
+	];
+	"OklahomaState" -> "Missouri"	[weight = .01
+	];
+	"AirForce" -> "Navy"	[weight = .01
+	];
+	"Army" -> "Navy"	[weight = .01
+	];
+	"NotreDame" -> "Navy"	[weight = .01
+	];
+	"Rutgers" -> "Navy"	[weight = .01
+	];
+	"TexasChristian" -> "Navy"	[weight = .01
+	];
+	"Toledo" -> "Navy"	[weight = .01
+	];
+	"Tulane" -> "Navy"	[weight = .01
+	];
+	"WakeForest" -> "Navy"	[weight = .01
+	];
+	"Missouri" -> "Nebraska"	[weight = .01
+	];
+	"NotreDame" -> "Nebraska"	[weight = .01
+	];
+	"Oklahoma" -> "Nebraska"	[weight = .01
+	];
+	"Hawaii" -> "Nevada"	[weight = .01
+	];
+	"NevadaLasVegas" -> "Nevada"	[weight = .01
+	];
+	"Oregon" -> "Nevada"	[weight = .01
+	];
+	"SanJoseState" -> "Nevada"	[weight = .01
+	];
+	"TexasChristian" -> "Nevada"	[weight = .01
+	];
+	"TexasElPaso" -> "Nevada"	[weight = .01
+	];
+	"Tulsa" -> "Nevada"	[weight = .01
+	];
+	"Hawaii" -> "NevadaLasVegas"	[weight = .01
+	];
+	"AirForce" -> "NewMexico"	[weight = .01
+	];
+	"BoiseState" -> "NewMexico"	[weight = .01
+	];
+	"ColoradoState" -> "NewMexico"	[weight = .01
+	];
+	"NevadaLasVegas" -> "NewMexico"	[weight = .01
+	];
+	"NewMexicoState" -> "NewMexico"	[weight = .01
+	];
+	"OregonState" -> "NewMexico"	[weight = .01
+	];
+	"SanDiegoState" -> "NewMexico"	[weight = .01
+	];
+	"TexasTech" -> "NewMexico"	[weight = .01
+	];
+	"Utah" -> "NewMexico"	[weight = .01
+	];
+	"Wyoming" -> "NewMexico"	[weight = .01
+	];
+	"Army" -> "NewMexicoState"	[weight = .01
+	];
+	"Georgia" -> "NewMexicoState"	[weight = .01
+	];
+	"SouthCarolina" -> "NewMexicoState"	[weight = .01
+	];
+	"TexasElPaso" -> "NewMexicoState"	[weight = .01
+	];
+	"Tulsa" -> "NewMexicoState"	[weight = .01
+	];
+	"UtahState" -> "NewMexicoState"	[weight = .01
+	];
+	"Clemson" -> "NorthCarolina"	[weight = .01
+	];
+	"Marshall" -> "NorthCarolina"	[weight = .01
+	];
+	"Maryland" -> "NorthCarolina"	[weight = .01
+	];
+	"WakeForest" -> "NorthCarolina"	[weight = .01
+	];
+	"Clemson" -> "NorthCarolinaState"	[weight = .01
+	];
+	"Duke" -> "NorthCarolinaState"	[weight = .01
+	];
+	"GeorgiaTech" -> "NorthCarolinaState"	[weight = .01
+	];
+	"Indiana" -> "NorthCarolinaState"	[weight = .01
+	];
+	"Maryland" -> "NorthCarolinaState"	[weight = .01
+	];
+	"NorthCarolina" -> "NorthCarolinaState"	[weight = .01
+	];
+	"SouthernMethodist" -> "NorthCarolinaState"	[weight = .01
+	];
+	"Virginia" -> "NorthCarolinaState"	[weight = .01
+	];
+	"WakeForest" -> "NorthCarolinaState"	[weight = .01
+	];
+	"ArkansasState" -> "NorthTexas"	[weight = .01
+	];
+	"BoiseState" -> "NorthTexas"	[weight = .01
+	];
+	"Idaho" -> "NorthTexas"	[weight = .01
+	];
+	"LouisianaLafayette" -> "NorthTexas"	[weight = .01
+	];
+	"NevadaLasVegas" -> "NorthTexas"	[weight = .01
+	];
+	"NewMexicoState" -> "NorthTexas"	[weight = .01
+	];
+	"UtahState" -> "NorthTexas"	[weight = .01
+	];
+	"Akron" -> "NorthernIllinois"	[weight = .01
+	];
+	"Auburn" -> "NorthernIllinois"	[weight = .01
+	];
+	"BallState" -> "NorthernIllinois"	[weight = .01
+	];
+	"Buffalo" -> "NorthernIllinois"	[weight = .01
+	];
+	"CentralFlorida" -> "NorthernIllinois"	[weight = .01
+	];
+	"CentralMichigan" -> "NorthernIllinois"	[weight = .01
+	];
+	"EasternMichigan" -> "NorthernIllinois"	[weight = .01
+	];
+	"Northwestern" -> "NorthernIllinois"	[weight = .01
+	];
+	"Toledo" -> "NorthernIllinois"	[weight = .01
+	];
+	"WesternMichigan" -> "NorthernIllinois"	[weight = .01
+	];
+	"Duke" -> "Northwestern"	[weight = .01
+	];
+	"Illinois" -> "Northwestern"	[weight = .01
+	];
+	"Indiana" -> "Northwestern"	[weight = .01
+	];
+	"Michigan" -> "Northwestern"	[weight = .01
+	];
+	"MichiganState" -> "Northwestern"	[weight = .01
+	];
+	"Minnesota" -> "Northwestern"	[weight = .01
+	];
+	"Purdue" -> "Northwestern"	[weight = .01
+	];
+	"TexasChristian" -> "Northwestern"	[weight = .01
+	];
+	"Wisconsin" -> "Northwestern"	[weight = .01
+	];
+	"AirForce" -> "NotreDame"	[weight = .01
+	];
+	"MichiganState" -> "NotreDame"	[weight = .01
+	];
+	"Rutgers" -> "NotreDame"	[weight = .01
+	];
+	"IowaState" -> "Ohio"	[weight = .01
+	];
+	"Marshall" -> "Ohio"	[weight = .01
+	];
+	"Illinois" -> "OhioState"	[weight = .01
+	];
+	"MiamiOhio" -> "OhioState"	[weight = .01
+	];
+	"MichiganState" -> "OhioState"	[weight = .01
+	];
+	"Minnesota" -> "OhioState"	[weight = .01
+	];
+	"OklahomaState" -> "Oklahoma"	[weight = .01
+	];
+	"Texas" -> "Oklahoma"	[weight = .01
+	];
+	"California" -> "Oregon"	[weight = .01
+	];
+	"OregonState" -> "Oregon"	[weight = .01
+	];
+	"WashingtonState" -> "Oregon"	[weight = .01
+	];
+	"California" -> "OregonState"	[weight = .01
+	];
+	"Illinois" -> "PennState"	[weight = .01
+	];
+	"Indiana" -> "PennState"	[weight = .01
+	];
+	"LouisianaTech" -> "PennState"	[weight = .01
+	];
+	"Michigan" -> "PennState"	[weight = .01
+	];
+	"MichiganState" -> "PennState"	[weight = .01
+	];
+	"Minnesota" -> "PennState"	[weight = .01
+	];
+	"OhioState" -> "PennState"	[weight = .01
+	];
+	"Pittsburgh" -> "PennState"	[weight = .01
+	];
+	"Purdue" -> "PennState"	[weight = .01
+	];
+	"SouthernCalifornia" -> "PennState"	[weight = .01
+	];
+	"Toledo" -> "PennState"	[weight = .01
+	];
+	"MiamiFlorida" -> "Pittsburgh"	[weight = .01
+	];
+	"NorthCarolina" -> "Pittsburgh"	[weight = .01
+	];
+	"Rutgers" -> "Pittsburgh"	[weight = .01
+	];
+	"Temple" -> "Pittsburgh"	[weight = .01
+	];
+	"Indiana" -> "Purdue"	[weight = .01
+	];
+	"Kent" -> "Purdue"	[weight = .01
+	];
+	"MichiganState" -> "Purdue"	[weight = .01
+	];
+	"Minnesota" -> "Purdue"	[weight = .01
+	];
+	"NotreDame" -> "Purdue"	[weight = .01
+	];
+	"OhioState" -> "Purdue"	[weight = .01
+	];
+	"Hawaii" -> "Rice"	[weight = .01
+	];
+	"Nevada" -> "Rice"	[weight = .01
+	];
+	"Oklahoma" -> "Rice"	[weight = .01
+	];
+	"SanJoseState" -> "Rice"	[weight = .01
+	];
+	"SouthernMethodist" -> "Rice"	[weight = .01
+	];
+	"TexasChristian" -> "Rice"	[weight = .01
+	];
+	"TexasElPaso" -> "Rice"	[weight = .01
+	];
+	"Tulsa" -> "Rice"	[weight = .01
+	];
+	"MiamiFlorida" -> "Rutgers"	[weight = .01
+	];
+	"AirForce" -> "SanDiegoState"	[weight = .01
+	];
+	"Arizona" -> "SanDiegoState"	[weight = .01
+	];
+	"ColoradoState" -> "SanDiegoState"	[weight = .01
+	];
+	"Illinois" -> "SanDiegoState"	[weight = .01
+	];
+	"NevadaLasVegas" -> "SanDiegoState"	[weight = .01
+	];
+	"OregonState" -> "SanDiegoState"	[weight = .01
+	];
+	"Utah" -> "SanDiegoState"	[weight = .01
+	];
+	"Wyoming" -> "SanDiegoState"	[weight = .01
+	];
+	"Hawaii" -> "SanJoseState"	[weight = .01
+	];
+	"Nebraska" -> "SanJoseState"	[weight = .01
+	];
+	"Stanford" -> "SanJoseState"	[weight = .01
+	];
+	"TexasChristian" -> "SanJoseState"	[weight = .01
+	];
+	"TexasElPaso" -> "SanJoseState"	[weight = .01
+	];
+	"Tulsa" -> "SanJoseState"	[weight = .01
+	];
+	"Arkansas" -> "SouthCarolina"	[weight = .01
+	];
+	"Clemson" -> "SouthCarolina"	[weight = .01
+	];
+	"Georgia" -> "SouthCarolina"	[weight = .01
+	];
+	"Tennessee" -> "SouthCarolina"	[weight = .01
+	];
+	"Arizona" -> "SouthernCalifornia"	[weight = .01
+	];
+	"ArizonaState" -> "SouthernCalifornia"	[weight = .01
+	];
+	"California" -> "SouthernCalifornia"	[weight = .01
+	];
+	"Colorado" -> "SouthernCalifornia"	[weight = .01
+	];
+	"NotreDame" -> "SouthernCalifornia"	[weight = .01
+	];
+	"Oregon" -> "SouthernCalifornia"	[weight = .01
+	];
+	"OregonState" -> "SouthernCalifornia"	[weight = .01
+	];
+	"SanJoseState" -> "SouthernCalifornia"	[weight = .01
+	];
+	"Stanford" -> "SouthernCalifornia"	[weight = .01
+	];
+	"UCLA" -> "SouthernCalifornia"	[weight = .01
+	];
+	"WashingtonState" -> "SouthernCalifornia"	[weight = .01
+	];
+	"Hawaii" -> "SouthernMethodist"	[weight = .01
+	];
+	"Nevada" -> "SouthernMethodist"	[weight = .01
+	];
+	"SanJoseState" -> "SouthernMethodist"	[weight = .01
+	];
+	"TexasChristian" -> "SouthernMethodist"	[weight = .01
+	];
+	"TexasElPaso" -> "SouthernMethodist"	[weight = .01
+	];
+	"Tulane" -> "SouthernMethodist"	[weight = .01
+	];
+	"Tulsa" -> "SouthernMethodist"	[weight = .01
+	];
+	"AlabamaBirmingham" -> "SouthernMississippi"	[weight = .01
+	];
+	"Cincinnati" -> "SouthernMississippi"	[weight = .01
+	];
+	"OklahomaState" -> "SouthernMississippi"	[weight = .01
+	];
+	"Tennessee" -> "SouthernMississippi"	[weight = .01
+	];
+	"Tulane" -> "SouthernMississippi"	[weight = .01
+	];
+	"California" -> "Stanford"	[weight = .01
+	];
+	"NotreDame" -> "Stanford"	[weight = .01
+	];
+	"OregonState" -> "Stanford"	[weight = .01
+	];
+	"Texas" -> "Stanford"	[weight = .01
+	];
+	"WashingtonState" -> "Stanford"	[weight = .01
+	];
+	"Cincinnati" -> "Syracuse"	[weight = .01
+	];
+	"EastCarolina" -> "Syracuse"	[weight = .01
+	];
+	"MiamiFlorida" -> "Syracuse"	[weight = .01
+	];
+	"Pittsburgh" -> "Syracuse"	[weight = .01
+	];
+	"Rutgers" -> "Syracuse"	[weight = .01
+	];
+	"Temple" -> "Syracuse"	[weight = .01
+	];
+	"Maryland" -> "Temple"	[weight = .01
+	];
+	"MiamiFlorida" -> "Temple"	[weight = .01
+	];
+	"Navy" -> "Temple"	[weight = .01
+	];
+	"Rutgers" -> "Temple"	[weight = .01
+	];
+	"Arkansas" -> "Tennessee"	[weight = .01
+	];
+	"Georgia" -> "Tennessee"	[weight = .01
+	];
+	"LouisianaState" -> "Tennessee"	[weight = .01
+	];
+	"Missouri" -> "Texas"	[weight = .01
+	];
+	"OklahomaState" -> "Texas"	[weight = .01
+	];
+	"NotreDame" -> "TexasA&M"	[weight = .01
+	];
+	"Oklahoma" -> "TexasA&M"	[weight = .01
+	];
+	"OklahomaState" -> "TexasA&M"	[weight = .01
+	];
+	"Texas" -> "TexasA&M"	[weight = .01
+	];
+	"TexasElPaso" -> "TexasA&M"	[weight = .01
+	];
+	"Hawaii" -> "TexasChristian"	[weight = .01
+	];
+	"Hawaii" -> "TexasElPaso"	[weight = .01
+	];
+	"Oklahoma" -> "TexasElPaso"	[weight = .01
+	];
+	"TexasChristian" -> "TexasElPaso"	[weight = .01
+	];
+	"Tulsa" -> "TexasElPaso"	[weight = .01
+	];
+	"Baylor" -> "TexasTech"	[weight = .01
+	];
+	"Kansas" -> "TexasTech"	[weight = .01
+	];
+	"LouisianaLafayette" -> "TexasTech"	[weight = .01
+	];
+	"Nebraska" -> "TexasTech"	[weight = .01
+	];
+	"NorthTexas" -> "TexasTech"	[weight = .01
+	];
+	"Oklahoma" -> "TexasTech"	[weight = .01
+	];
+	"OklahomaState" -> "TexasTech"	[weight = .01
+	];
+	"Texas" -> "TexasTech"	[weight = .01
+	];
+	"TexasA&M" -> "TexasTech"	[weight = .01
+	];
+	"UtahState" -> "TexasTech"	[weight = .01
+	];
+	"Marshall" -> "Toledo"	[weight = .01
+	];
+	"Army" -> "Tulane"	[weight = .01
+	];
+	"Cincinnati" -> "Tulane"	[weight = .01
+	];
+	"LouisianaLafayette" -> "Tulane"	[weight = .01
+	];
+	"Mississippi" -> "Tulane"	[weight = .01
+	];
+	"Hawaii" -> "Tulsa"	[weight = .01
+	];
+	"NorthCarolina" -> "Tulsa"	[weight = .01
+	];
+	"OklahomaState" -> "Tulsa"	[weight = .01
+	];
+	"TexasChristian" -> "Tulsa"	[weight = .01
+	];
+	"Arizona" -> "UCLA"	[weight = .01
+	];
+	"California" -> "UCLA"	[weight = .01
+	];
+	"FresnoState" -> "UCLA"	[weight = .01
+	];
+	"Michigan" -> "UCLA"	[weight = .01
+	];
+	"Oregon" -> "UCLA"	[weight = .01
+	];
+	"OregonState" -> "UCLA"	[weight = .01
+	];
+	"Stanford" -> "UCLA"	[weight = .01
+	];
+	"Washington" -> "UCLA"	[weight = .01
+	];
+	"AirForce" -> "Utah"	[weight = .01
+	];
+	"California" -> "Utah"	[weight = .01
+	];
+	"ColoradoState" -> "Utah"	[weight = .01
+	];
+	"NevadaLasVegas" -> "Utah"	[weight = .01
+	];
+	"UtahState" -> "Utah"	[weight = .01
+	];
+	"WashingtonState" -> "Utah"	[weight = .01
+	];
+	"Georgia" -> "Vanderbilt"	[weight = .01
+	];
+	"Mississippi" -> "Vanderbilt"	[weight = .01
+	];
+	"SouthCarolina" -> "Vanderbilt"	[weight = .01
+	];
+	"Tennessee" -> "Vanderbilt"	[weight = .01
+	];
+	"WakeForest" -> "Vanderbilt"	[weight = .01
+	];
+	"Clemson" -> "Virginia"	[weight = .01
+	];
+	"Duke" -> "Virginia"	[weight = .01
+	];
+	"GeorgiaTech" -> "Virginia"	[weight = .01
+	];
+	"Maryland" -> "Virginia"	[weight = .01
+	];
+	"NorthCarolina" -> "Virginia"	[weight = .01
+	];
+	"WakeForest" -> "Virginia"	[weight = .01
+	];
+	"BostonCollege" -> "VirginiaTech"	[weight = .01
+	];
+	"CentralFlorida" -> "VirginiaTech"	[weight = .01
+	];
+	"EastCarolina" -> "VirginiaTech"	[weight = .01
+	];
+	"MiamiFlorida" -> "VirginiaTech"	[weight = .01
+	];
+	"Pittsburgh" -> "VirginiaTech"	[weight = .01
+	];
+	"Rutgers" -> "VirginiaTech"	[weight = .01
+	];
+	"Syracuse" -> "VirginiaTech"	[weight = .01
+	];
+	"Temple" -> "VirginiaTech"	[weight = .01
+	];
+	"Virginia" -> "VirginiaTech"	[weight = .01
+	];
+	"WestVirginia" -> "VirginiaTech"	[weight = .01
+	];
+	"Maryland" -> "WakeForest"	[weight = .01
+	];
+	"California" -> "Washington"	[weight = .01
+	];
+	"MiamiFlorida" -> "Washington"	[weight = .01
+	];
+	"Oregon" -> "Washington"	[weight = .01
+	];
+	"OregonState" -> "Washington"	[weight = .01
+	];
+	"Stanford" -> "Washington"	[weight = .01
+	];
+	"WashingtonState" -> "Washington"	[weight = .01
+	];
+	"California" -> "WashingtonState"	[weight = .01
+	];
+	"OregonState" -> "WashingtonState"	[weight = .01
+	];
+	"EastCarolina" -> "WestVirginia"	[weight = .01
+	];
+	"Idaho" -> "WestVirginia"	[weight = .01
+	];
+	"Maryland" -> "WestVirginia"	[weight = .01
+	];
+	"MiamiFlorida" -> "WestVirginia"	[weight = .01
+	];
+	"NotreDame" -> "WestVirginia"	[weight = .01
+	];
+	"Pittsburgh" -> "WestVirginia"	[weight = .01
+	];
+	"Rutgers" -> "WestVirginia"	[weight = .01
+	];
+	"Syracuse" -> "WestVirginia"	[weight = .01
+	];
+	"Temple" -> "WestVirginia"	[weight = .01
+	];
+	"BallState" -> "WesternMichigan"	[weight = .01
+	];
+	"CentralMichigan" -> "WesternMichigan"	[weight = .01
+	];
+	"EasternMichigan" -> "WesternMichigan"	[weight = .01
+	];
+	"Kent" -> "WesternMichigan"	[weight = .01
+	];
+	"Marshall" -> "WesternMichigan"	[weight = .01
+	];
+	"Ohio" -> "WesternMichigan"	[weight = .01
+	];
+	"Toledo" -> "WesternMichigan"	[weight = .01
+	];
+	"Wisconsin" -> "WesternMichigan"	[weight = .01
+	];
+	"Cincinnati" -> "Wisconsin"	[weight = .01
+	];
+	"Hawaii" -> "Wisconsin"	[weight = .01
+	];
+	"Indiana" -> "Wisconsin"	[weight = .01
+	];
+	"Michigan" -> "Wisconsin"	[weight = .01
+	];
+	"MichiganState" -> "Wisconsin"	[weight = .01
+	];
+	"Minnesota" -> "Wisconsin"	[weight = .01
+	];
+	"OhioState" -> "Wisconsin"	[weight = .01
+	];
+	"Oregon" -> "Wisconsin"	[weight = .01
+	];
+	"Purdue" -> "Wisconsin"	[weight = .01
+	];
+	"AirForce" -> "Wyoming"	[weight = .01
+	];
+	"Auburn" -> "Wyoming"	[weight = .01
+	];
+	"CentralMichigan" -> "Wyoming"	[weight = .01
+	];
+	"ColoradoState" -> "Wyoming"	[weight = .01
+	];
+	"Nevada" -> "Wyoming"	[weight = .01
+	];
+	"NevadaLasVegas" -> "Wyoming"	[weight = .01
+	];
+	"TexasA&M" -> "Wyoming"	[weight = .01
+	];
+	"Utah" -> "Wyoming"	[weight = .01
+	];
+}

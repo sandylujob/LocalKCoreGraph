@@ -1,0 +1,11 @@
+edge degrees:
+id	degree	max	normal
+28	1	2	1
+29	1	2	1
+49	1	2	1
+Average = 1
+Average Normalized = 1
+Average By Vertex = 1
+Average Normalized By Vertex = 1
+Average By Edge Density = 3
+Average Normalized By Edge Density = 3
